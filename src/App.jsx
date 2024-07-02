@@ -14,6 +14,7 @@ function App() {
                 <Button variant="outline-primary">Add Expense</Button>
                 <Button variant="primary">Add Budget</Button>
                 <Button variant="outline-primary">Add Expense</Button>
+                <Button variant="outline-primary">Remove Expense</Button>
             </Stack>
 
             <div
